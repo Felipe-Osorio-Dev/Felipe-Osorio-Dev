@@ -41,9 +41,9 @@ Atualmente estou aprofundando meus conhecimentos em **Spring Boot** e suas integ
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Felipe-Osorio-Dev&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=github_dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Osorio-Dev&layout=compact&theme=github_dark)
 
 </div>
 
