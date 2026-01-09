@@ -63,7 +63,6 @@ Estou em transição de carreira e meu foco é consolidar minha trajetória como
 
 ## 📫 Onde me encontrar
 - 💼 [LinkedIn](https://www.linkedin.com/in/felipe-os%C3%B3rio-765b07296/)
-- 💻 [Portfólio / Projetos](https://github.com/seu-usuario)
 
 ---
 
