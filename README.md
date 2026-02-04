@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Sobre mim
-Sou um entusiasta de desenvolvimento **Java** e **Kotlin**, com foco principal em **aplicações backend**.  
+Sou um entusiasta de desenvolvimento **Java** e **C#**, com foco principal em **aplicações backend**.  
 Atualmente estou aprofundando meus conhecimentos em **Spring Boot** e suas integrações com segurança, persistência e mensageria.
 
 💡 Meu objetivo é construir APIs limpas, seguras e eficientes, seguindo boas práticas e padrões de arquitetura.
@@ -16,7 +16,7 @@ Atualmente estou aprofundando meus conhecimentos em **Spring Boot** e suas integ
 
 ### 💻 Linguagens
 - **Java** ☕  
-- **Kotlin** 🧩  
+- **C#** 🧩  
 
 ### ⚙️ Frameworks e Bibliotecas
 - **Spring Boot** (Web, Security, Data JPA, Validation)
