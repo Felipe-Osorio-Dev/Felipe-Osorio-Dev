@@ -1,6 +1,8 @@
 <div align="center">
 Felipe de Paula Osório
+    
 Desenvolvedor Backend .NET · Em transição de carreira para TI
+
 </div>
 
 ---
