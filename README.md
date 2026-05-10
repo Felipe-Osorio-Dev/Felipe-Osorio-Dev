@@ -1,64 +1,72 @@
-# 👋 Olá, eu sou o Felipe Osorio
-
-🎯 **Desenvolvedor Backend em transição de carreira**, apaixonado por tecnologia, resolução de problemas e construção de soluções escaláveis e bem estruturadas.
-
----
-
-## 🚀 Sobre mim
-Sou um entusiasta de desenvolvimento **Java** e **C#**, com foco principal em **aplicações backend**.  
-Atualmente estou aprofundando meus conhecimentos em **Spring Boot** e suas integrações com segurança, persistência e mensageria.
-
-💡 Meu objetivo é construir APIs limpas, seguras e eficientes, seguindo boas práticas e padrões de arquitetura.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-### 💻 Linguagens
-- **Java** ☕  
-- **C#** 🧩  
-
-### ⚙️ Frameworks e Bibliotecas
-- **Spring Boot** (Web, Security, Data JPA, Validation)
-- **Hibernate / JPA**
-- **Flyway** (migração de banco de dados)
-- **JUnit / Mockito** (testes automatizados)
-
-### 🗄️ Banco de Dados
-- **PostgreSQL**
-- **MySQL**
-- **H2 (para testes)**
-
-### ☁️ Outras tecnologias
-- **Maven / Gradle**
-- **Docker**
-- **JWT (Autenticação e Autorização)**
-- **Git & GitHub**
-
----
-
-## 📊 Estatísticas GitHub
-
 <div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Felipe-Osorio-Dev&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Osorio-Dev&layout=compact&theme=github_dark)
-
+Felipe de Paula Osório
+Desenvolvedor Backend .NET · Em transição de carreira para TI
 </div>
 
 ---
 
-## 🌱 Atualmente aprendendo
-- Microsserviços com **Spring Cloud**
-- Boas práticas de **Clean Architecture** e **DDD**
-- Integração contínua e deploy com **CI/CD**
+## 👋 Sobre mim
+Olá! Sou o Felipe, desenvolvedor backend em formação com foco no ecossistema .NET. Estou em transição de carreira para a área de TI, trazendo na bagagem disciplina, vontade de aprender e projetos práticos que já coloquei em prática.
+Meu foco é construir APIs robustas, bem estruturadas e de fácil manutenção, aplicando boas práticas de desenvolvimento desde o início.
+
+```csharp
+
+var felipe = new Developer
+{
+    Nome        = "Felipe de Paula Osório",
+    Foco        = "Backend .NET",
+    Status      = "Transição de carreira 🚀",
+    Aprendendo  = new[] { "ASP.NET Core", "Entity Framework", "SQL Server" },
+    Objetivo    = "Construir APIs sólidas e evoluir como dev backend"
+};
+
+```
+---
+
+## 🛠️ Stack & Tecnologias
+Linguagem & Framework
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+## APIs & Ferramentas
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ---
 
-## 🎯 Objetivo profissional
-Estou em transição de carreira e meu foco é consolidar minha trajetória como **Desenvolvedor Backend**, contribuindo para projetos que priorizem **qualidade de código**, **boas práticas** e **colaboração**.
+## 📚 Atualmente estudando
+✅ ASP.NET Core — Web APIs
+
+✅ Entity Framework Core — ORM & Migrations
+
+✅ SQL Server — Modelagem e queries
+
+🔄 Clean Architecture & SOLID
+
+🔄 Autenticação com JWT
+
+📋 Testes unitários com xUnit
 
 ---
 
-> "A tecnologia é a ferramenta, mas o aprendizado constante é o verdadeiro combustível da evolução." 🚀
+## 📊 GitHub Stats
+
+<div align="center">
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Osorio-Dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Osorio-Dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+</div>
+
+---
+
+## 💡 Filosofia de desenvolvimento
+
+> *"Código limpo não é escrito para a máquina. É escrito para o próximo dev — que pode ser você mesmo daqui a 6 meses."*
+Acredito em aprender fazendo, iterar sempre e manter o código simples antes de torná-lo sofisticado.
