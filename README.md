@@ -61,9 +61,9 @@ var felipe = new Developer
 
 <div align="center">
     
-![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Osorio-Dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Felipe-Osorio-Dev&show-icons=true&theme=tokyonight&hide-border=true&locale=pt-br)
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Osorio-Dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Osorio-Dev&layout=compact&theme=tokyonight&hide-border=true&locale=pt-br)
 
 </div>
 
